@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:7:5-74
+MERGED from [com.android.support:support-v4:23.4.0] /home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:7:42-71
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:19:22-71
+application
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:21:5-50:19
+MERGED from [com.android.support:support-v4:23.4.0] /home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:24:9-40
+	android:allowBackup
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:23:9-38
+activity#com.mica.PersPos
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:28:13-44
+	android:configChanges
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:26:13-36
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.mica.SettingsActivity
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:39:13-37
+	android:configChanges
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:38:13-48
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:37:13-45
+intent-filter#android.intent.category.DEFAULT+com.mica.SETTINGS
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:40:13-44:29
+action#com.mica.SETTINGS
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:41:17-60
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:41:25-57
+category#android.intent.category.DEFAULT
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:43:27-73
+service#com.mica.PersPosService
+ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:47:9-49:38
+	android:enabled
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:49:13-35
+	android:name
+		ADDED from /home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/AndroidManifest.xml:48:13-43

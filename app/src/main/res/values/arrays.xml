@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="time">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>60</item>
+    </string-array>
+    
+    <string-array name="rfid_name">
+        <item>Point 1</item>
+        <item>Point 2</item>
+        <item>Point 3</item>
+        <item>Stair 8</item>
+        <item>terass</item>
+        <item>stair-psi</item>
+        <item>smartroom door</item>
+        <item>Showroom door</item>
+    </string-array>
+    
+    <string-array name="rfid_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    
+    <string-array name="step_calibration_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+   
+    <string-array name="step_calibration_display">
+        <item>very sensitive</item>
+        <item>sensitive</item>
+        <item>medium</item>
+        <item>low sensitive</item>
+        <item>very low sensitive</item>
+    </string-array>
+
+</resources>

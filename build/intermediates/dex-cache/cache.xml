@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d661973496852520adbb4a2cb7fe984615e48352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/libs/httpcore-4.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb3c057d92cd815b923de0b1a6d71cb69a84b80e">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.1_cae95bd6ae93ea13896d45d000f609d0bde499f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b0ac1034f69ba2051a8dd763ac2e28040d36b64d">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_496243cdde865836fc1f1f409d919dbc3be8fefc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d661973496852520adbb4a2cb7fe984615e48352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/pre-dexed/debug/classes_6eea60c8f86c3bcf1f2f94fb307594bd63ce2fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/libs/httpcore-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb3c057d92cd815b923de0b1a6d71cb69a84b80e">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/pre-dexed/debug/httpcore-4.3.1_cae95bd6ae93ea13896d45d000f609d0bde499f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2b996370c693c3f6855ea271dc0d14c1b066c46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_233bb1e4b480c05dab0bbeac1c72ce20e538a698/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/libs/httpmime-4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3202421d9425ced69919b282afa644e7ef0e8fef">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/pre-dexed/debug/httpmime-4.3.2_e37ac84ece20649b5ea8904ace0f88caf7a16233.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/AndroidStudioProjects/PersPos1/app/libs/httpmime-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3202421d9425ced69919b282afa644e7ef0e8fef">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.2_e37ac84ece20649b5ea8904ace0f88caf7a16233/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/namnguyen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_233bb1e4b480c05dab0bbeac1c72ce20e538a698.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eea60c8f86c3bcf1f2f94fb307594bd63ce2fb3/classes.dex" />
+    </item>
+
+</items>

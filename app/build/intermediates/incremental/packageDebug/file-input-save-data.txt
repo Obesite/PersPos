@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Sep 20 19:56:04 ICT 2017
+2.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_496243cdde865836fc1f1f409d919dbc3be8fefc
+6.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2b996370c693c3f6855ea271dc0d14c1b066c46
+7.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+5.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.set=DEX
+6.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/org/apache/http/entity/mime/version.properties
+9.set=JAVA_RESOURCE
+9.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/org/apache/http/version.properties
+1.set=JAVA_RESOURCE
+7.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_/res/layout/settings.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_496243cdde865836fc1f1f409d919dbc3be8fefc/classes.dex
+3.set=DEX
+1.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+9.base=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar
+4.file=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2b996370c693c3f6855ea271dc0d14c1b066c46/classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

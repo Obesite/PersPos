@@ -1,0 +1,16 @@
+#Wed Sep 20 19:56:03 ICT 2017
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes5.dex
+base.4=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_233bb1e4b480c05dab0bbeac1c72ce20e538a698
+renamed.0=classes.dex
+base.3=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d661973496852520adbb4a2cb7fe984615e48352
+base.2=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.1_cae95bd6ae93ea13896d45d000f609d0bde499f8
+base.1=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.2_e37ac84ece20649b5ea8904ace0f88caf7a16233
+base.0=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eea60c8f86c3bcf1f2f94fb307594bd63ce2fb3
+file.4=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_233bb1e4b480c05dab0bbeac1c72ce20e538a698/classes.dex
+file.3=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d661973496852520adbb4a2cb7fe984615e48352/classes.dex
+file.2=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.3.1_cae95bd6ae93ea13896d45d000f609d0bde499f8/classes.dex
+file.1=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.3.2_e37ac84ece20649b5ea8904ace0f88caf7a16233/classes.dex
+file.0=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6eea60c8f86c3bcf1f2f94fb307594bd63ce2fb3/classes.dex

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" >
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="World:" />
+
+            <EditText
+                android:id="@+id/ConfigSetEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0px"
+                android:layout_weight=".5"
+                android:hint="Environment" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="Server:" />
+
+            <EditText
+                android:id="@+id/ServerEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0px"
+                android:layout_weight=".5"
+                android:hint="Server" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="Username:" />
+
+            <EditText
+                android:id="@+id/UsernameEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0px"
+                android:layout_weight=".5"
+                android:hint="Username" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="Password:" />
+
+            <EditText
+                android:id="@+id/PasswordEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0px"
+                android:layout_weight=".5"
+                android:hint="Password"
+                android:inputType="textPassword" />
+        </TableRow>
+        
+        <TableRow>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="Step Calibrate" />
+
+            <EditText
+                android:id="@+id/StepCalib"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0px"
+                android:layout_weight=".5"
+                android:hint="stepCalib: 1.97 2.96 4.44"
+                android:text="1.97" />
+        </TableRow>
+        
+    </TableLayout>
+    
+
+    <TableLayout
+        android:id="@+id/tableLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/OKBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="OK" />
+
+            <Button
+                android:id="@+id/CancelBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:text="Cancel" />
+        </TableRow>
+    </TableLayout>
+
+    <CheckBox
+        android:id="@+id/OnlineSendingChk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tableLayout1"
+        android:text="Online Sending" />
+
+    <CheckBox
+        android:id="@+id/OfflineLogChk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/OnlineSendingChk"
+        android:text="Offline Log" />
+    
+
+</RelativeLayout>

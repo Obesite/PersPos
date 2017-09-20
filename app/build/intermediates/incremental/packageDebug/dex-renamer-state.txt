@@ -1,0 +1,7 @@
+#Wed Sep 20 19:56:04 ICT 2017
+base.0=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_496243cdde865836fc1f1f409d919dbc3be8fefc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2b996370c693c3f6855ea271dc0d14c1b066c46/classes.dex
+base.1=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f2b996370c693c3f6855ea271dc0d14c1b066c46
+file.0=/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_496243cdde865836fc1f1f409d919dbc3be8fefc/classes.dex

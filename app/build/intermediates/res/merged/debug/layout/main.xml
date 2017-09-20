@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical" >
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal" >
+
+	        <HorizontalScrollView
+	            android:id="@+id/horizontalScrollView1"
+	            android:layout_width="0dip"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1" >
+
+	            <LinearLayout
+	                android:layout_width="wrap_content"
+	                android:layout_height="match_parent"
+	                android:orientation="horizontal" >
+
+	                <Spinner
+	                    android:id="@+id/TimeSpinner"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="Time interval" />
+
+	                <CheckBox
+	                    android:id="@+id/WifiChk"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="Wf" />
+
+	                <CheckBox
+	                    android:id="@+id/SensChk"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="Sens" />
+	                
+	                <CheckBox
+	                    android:id="@+id/BluetoothChk"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="Bt" />
+	                
+	                <Button
+	                    android:id="@+id/reachNextStop"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="ReachPoint" />
+	            </LinearLayout>
+	        </HorizontalScrollView>
+	    </LinearLayout>
+
+	    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Second: " />
+
+                <TextView
+                    android:id="@+id/timeElapsedSecond"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right|center_vertical"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:text="0.0 Second" />
+   
+        </LinearLayout>
+
+	    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Previous Check Point: " />
+
+                <TextView
+                    android:id="@+id/previousCheckPoints"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:text="" />
+   
+        </LinearLayout>
+	    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Next Check Point: " />
+
+                <TextView
+                    android:id="@+id/nextCheckPoints"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:text="" />
+   
+        </LinearLayout>
+	    
+	    	    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Wifi: " />
+
+                <TextView
+                    android:id="@+id/nWifiPackages"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right|center_vertical"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:text="0 packages" />
+   
+        </LinearLayout>
+        
+	    	    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bluetooth: " />
+
+                <TextView
+                    android:id="@+id/nGPSPackages"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right|center_vertical"
+                    android:imeOptions="actionNext"
+                    android:singleLine="true"
+                    android:text="0 packages" />
+   
+        </LinearLayout>
+	    	    
+	    <ScrollView
+	        android:id="@+id/ScrollView01"
+	        android:layout_width="fill_parent"
+	        android:layout_height="190dp" >
+
+	        <TextView
+	            android:id="@+id/StatusTxt"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:text="" />
+	    </ScrollView>
+	</LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/ServiceBtns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"
+		android:layout_marginLeft="14dp"
+		android:layout_marginStart="14dp">
+
+        <Button
+            android:id="@+id/StartService"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="Start" />
+
+        <Button
+            android:id="@+id/StopService"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="Stop" />
+
+        <RadioButton
+            android:id="@+id/ServiceState"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true" />
+
+        
+
+        <Button
+            android:id="@+id/ClearText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/StartService"
+            android:text="Clear" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

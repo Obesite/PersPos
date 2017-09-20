@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/home/namnguyen/.android/build-cache/e1451deb0ec75760e3067f14fcef49dc19946c67/output/assets"/></dataSet><dataSet config="main"><source path="/home/namnguyen/AndroidStudioProjects/PersPos1/app/src/main/assets"/><source path="/home/namnguyen/AndroidStudioProjects/PersPos1/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/namnguyen/AndroidStudioProjects/PersPos1/app/src/debug/assets"/></dataSet></merger>
